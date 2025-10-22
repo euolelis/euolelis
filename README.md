@@ -63,3 +63,8 @@ With over 10 years of experience at the intersection of marketing and technology
 ---
 
 ✨ *"AI + Automation are not the future — they are the present. The question is how fast you adapt."*
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euolelis&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euolelis&layout=compact&theme=radical)
+
