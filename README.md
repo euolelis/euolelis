@@ -34,7 +34,8 @@ With over 10 years of experience at the intersection of marketing and technology
 - ROI Optimization  
 
 ---
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
+
 ### 💻 Languages & Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
@@ -63,11 +64,9 @@ With over 10 years of experience at the intersection of marketing and technology
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/N8n_Logo.png" width="45" height="45" alt="N8N" />
   <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" width="45" height="45" alt="Make (Integromat)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Google Ads" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Google" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Meta_Logo_2023.svg" width="45" height="45" alt="Meta for Developers" />
 </p>
-
-
 ---
 
 ### 🌐 Connect with Me
