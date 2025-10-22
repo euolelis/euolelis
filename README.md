@@ -62,10 +62,10 @@ With over 10 years of experience at the intersection of marketing and technology
 
 ### 🤖 Tools & Automation
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/N8n_Logo.png" width="45" height="45" alt="N8N" />
-  <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" width="45" height="45" alt="Make (Integromat)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="45" height="45" alt="N8N" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/make.svg" width="45" height="45" alt="Make (Integromat)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Google" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Meta_Logo_2023.svg" width="45" height="45" alt="Meta for Developers" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meta/meta-original.svg" width="45" height="45" alt="Meta for Developers" />
 </p>
 ---
 
