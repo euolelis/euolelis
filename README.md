@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ynaia Yleran Lelis  
+# 👋 Hi, I'm Lelis  
 
 🎯 **Founder & AI Solutions Architect** at [LYP | Marketing & IA](https://www.linkedin.com/in/ynaiayleranlelis/)  
 🚀 Helping SaaS & E-commerce companies increase ROI with Generative AI & MarTech Automation  
