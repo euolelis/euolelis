@@ -26,30 +26,38 @@ With over 10 years of experience at the intersection of marketing and technology
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 
-### 💻 Languages & Programming  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+### 💻 Languages & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=30)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=30)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=30)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=30)
 
-### 🧩 Frameworks & Libraries  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+---
 
-### ☁️ Cloud & DevOps  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+### 🧠 Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoSize=30)
+![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=chainlink&logoColor=white&logoSize=30)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoSize=30)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=30)
 
-### 🧰 Tools & Automation  
-![N8N](https://img.shields.io/badge/N8N-EA4E8B?logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-2B2D42?logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?logo=googleads&logoColor=white)
+---
+
+### ☁️ Cloud & DevOps
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&logoSize=30)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=30)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&logoSize=30)
+
+---
+
+### 🤖 Tools & Automation
+![N8N](https://img.shields.io/badge/N8N-EA4C89?style=for-the-badge&logo=n8n&logoColor=white&logoSize=30)
+![Make](https://img.shields.io/badge/Make-2C2D72?style=for-the-badge&logo=make&logoColor=white&logoSize=30)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white&logoSize=30)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white&logoSize=30)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white&logoSize=30)
+
 
 ---
 
