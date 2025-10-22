@@ -61,12 +61,11 @@ With over 10 years of experience at the intersection of marketing and technology
 </p>
 
 ### 🤖 Tools & Automation
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="45" height="45" alt="N8N" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/make.svg" width="45" height="45" alt="Make (Integromat)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Google" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meta/meta-original.svg" width="45" height="45" alt="Meta for Developers" />
-</p>
+![N8N](https://img.shields.io/badge/N8N-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-4A90E2?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ---
 
 ### 🌐 Connect with Me
