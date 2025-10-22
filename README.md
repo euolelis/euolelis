@@ -1,8 +1,12 @@
-# 👨🏽‍💻 Hi, I'm Lelis  
+<h1 align="center">Hi, I'm Lelis 👨🏽‍💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ynaia+Yleran+Lelis+👋;AI+Solutions+Architect+%26+MarTech+Strategist;I+help+brands+scale+with+AI+%26+Automation)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Turning+business+challenges+into+sustainable+growth;Architecting+AI+Solutions+that+Drive+Real+Impact;MarTech+and+Automation+for+Scalable+Success" alt="Typing SVG" />
+  </a>
+</p>
 
-
+---
 🎯 **Founder & AI Solutions Architect** at [LYP | Marketing & IA](https://www.linkedin.com/in/ynaiayleranlelis/)  
 🚀 Helping SaaS & E-commerce companies increase ROI with Generative AI & MarTech Automation  
 
