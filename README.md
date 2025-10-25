@@ -2,62 +2,63 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Turning+business+challenges+into+sustainable+growth;Architecting+AI+Solutions+that+Drive+Real+Impact;MarTech+and+Automation+for+Scalable+Success" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Turning+Business+Challenges+into+Scalable+Growth;Architecting+AI+Systems+for+Real+Impact;Marketing+Technology+%26+Automation+that+Drives+Performance" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ## 🧠 About Me  
-I'm an **AI Solutions Architect** and **MarTech Specialist** passionate about transforming business challenges into measurable growth through **Artificial Intelligence** and **Marketing Technology**.  
+I'm an **AI Solutions Architect** and **MarTech Engineer** passionate about building **intelligent automation systems** that connect strategy, data, and technology to drive measurable growth.  
 
-With over 10 years of experience at the intersection of marketing and technology, I design and implement **custom AI and automation systems** that drive ROI, optimize processes, and enhance customer engagement.
+With over a decade working at the intersection of **software engineering, artificial intelligence, and marketing performance**, I design **custom AI-driven infrastructures** that optimize operations, scale revenue, and accelerate decision-making.
 
-💼 **Main focus areas:**  
+💼 **Focus areas:**  
 - 🤖 Generative AI Systems (OpenAI, Azure AI, Google Dialogflow)  
-- 📈 Predictive Analytics & Marketing Automation  
 - 🔁 Workflow Automation (N8N, Make, Zapier)  
-- 🧩 Data-Driven Marketing Optimization  
-- 🧠 AI Prompt Engineering  
-
-
-### 🧠 Areas of Expertise
-
-- AI Solution Architecture  
-- MarTech Strategy  
-- Generative AI (LLMs)  
-- Prompt Engineering  
-- Marketing Automation  
-- Conversational AI  
-- Data-Driven Marketing  
-- B2B Lead Generation  
-- ROI Optimization  
+- 📈 Predictive Analytics & Marketing Intelligence  
+- 🧩 AI Integrations & API Orchestration  
+- 🧠 Prompt Engineering & Custom LLM Applications  
 
 ---
-## ⚙️ Tech Stack
+
+## 🧩 Areas of Expertise  
+
+- AI Solution Architecture  
+- Generative AI & LLM Integrations  
+- MarTech & Marketing Automation  
+- Prompt Engineering  
+- Data-Driven Growth Strategy  
+- Conversational AI  
+- B2B Lead Generation Systems  
+- ROI Optimization & Performance Tracking  
+
+---
+
+## ⚙️ Tech Stack  
 
 ### 💻 Languages & Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="iOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud" />
-https://camo.githubusercontent.com/7ee4e9aedadf7ec426e7f44967f6cdda0bbb0406970c80638bedfd0096917b20/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
 </p>
 
 ### 🤖 Tools & Automation
@@ -66,6 +67,7 @@ https://camo.githubusercontent.com/7ee4e9aedadf7ec426e7f44967f6cdda0bbb0406970c8
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
 ---
 
 ### 🌐 Connect with Me
