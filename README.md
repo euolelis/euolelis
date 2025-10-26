@@ -8,33 +8,6 @@
 
 ---
 
-## 🧠 About Me  
-I'm an **AI Solutions Architect** and **MarTech Engineer** passionate about building **intelligent automation systems** that connect strategy, data, and technology to drive measurable growth.  
-
-With over a decade working at the intersection of **software engineering, artificial intelligence, and marketing performance**, I design **custom AI-driven infrastructures** that optimize operations, scale revenue, and accelerate decision-making.
-
-💼 **Focus areas:**  
-- 🤖 Generative AI Systems (OpenAI, Azure AI, Google Dialogflow)  
-- 🔁 Workflow Automation (N8N, Make, Zapier)  
-- 📈 Predictive Analytics & Marketing Intelligence  
-- 🧩 AI Integrations & API Orchestration  
-- 🧠 Prompt Engineering & Custom LLM Applications  
-
----
-
-## 🧩 Areas of Expertise  
-
-- AI Solution Architecture  
-- Generative AI & LLM Integrations  
-- MarTech & Marketing Automation  
-- Prompt Engineering  
-- Data-Driven Growth Strategy  
-- Conversational AI  
-- B2B Lead Generation Systems  
-- ROI Optimization & Performance Tracking  
-
----
-
 ## ⚙️ Tech Stack  
 
 ### 💻 Languages & Programming
