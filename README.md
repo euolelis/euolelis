@@ -28,16 +28,6 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Status |
-| :--- | :--- | :--- |
-| **🎓 School Management SaaS** | Flutter, Firebase, Cloud Functions | `Validation` (+120 users) |
-| **🤖 AI Automation Pipeline** | N8N, Node.js, Webhooks, OpenAI | `Production` (Lead Capture) |
-| **📊 Fullstack Dashboard** | React, Node.js, PostgreSQL, JWT | `Live` (Vercel + Railway) |
-
----
-
 ## 💻 Tech Stack & Tools
 
 <div align="left">
@@ -57,7 +47,6 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="vercel" style="margin: 6px;" />
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" height="45" alt="n8n" style="margin: 6px;" />
   <img src="https://img.shields.io/badge/Make-4A90E2?style=for-the-badge&logo=make&logoColor=white" height="45" alt="make" style="margin: 6px;" />
-  <img src="https://img.shields.io/badge/Weaviate-181717?style=for-the-badge&logo=weaviate&logoColor=white" height="45" alt="Weaviate" style="margin: 6px;" />
 </div>
 
 ---
