@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/euolelis?s=460" alt="Ynaia Yleran Lelis" width="150" height="150" style="border-radius:50%; border: 3px solid #A6ADBB;" />
-  
-  <h1>Hi, I'm Ynaia (Lelis) 👋</h1>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Business+Challenges+into+Scalable+SaaS;Architecting+AI+Systems+%26+RAG+Pipelines;Full-Stack+Engineering+%2B+Process+Automation" alt="Typing SVG" />
   </a>
@@ -45,7 +40,7 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" style="margin: 6px;" />
