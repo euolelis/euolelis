@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/euolelis?s=460" alt="Ynaia Yleran Lelis" width="140" height="140" style="border-radius:50%;" />
-  <h1>Hi, I'm Ynaia (Lelis) 👋</h1>
-
-  <!-- Typing banner (keeps short, high-impact lines) -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=780&lines=Turning+Business+Challenges+into+Scalable+SaaS;Architecting+AI+Systems+for+Real+Impact;Automations+%26+Integrations+that+Deliver" alt="Typing SVG" />
-  </p>
-</div>
-
----
 
 ## ⚙️ About / Summary
 Full-Stack Developer focused on **React, Next.js, Node.js** and building **SaaS, APIs, automations and AI-enabled products**. I deliver end-to-end solutions — architecture, backend, frontend, automation (N8N/Make), and cloud deploys (GCP / Firebase / Vercel). Currently evolving in **LLMs, RAG pipelines** and vector DBs (pgvector / Weaviate).  
