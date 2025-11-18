@@ -15,7 +15,6 @@
     </a>
   </p>
 </div>
-
 ---
 
 ## ⚡ About Me
@@ -38,7 +37,7 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 | **📊 Fullstack Dashboard** | React, Node.js, PostgreSQL, JWT | `Live` (Vercel + Railway) |
 
 ---
-
+<p align="center">
 ## 💻 Tech Stack & Tools
 ### **Languages & Frameworks**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" style="margin: 0 10px;" />
@@ -49,7 +48,6 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter" style="margin: 0 10px;" />
-
 <br/><br/>
 
 ### **Databases, AI & Cloud**
@@ -59,7 +57,6 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker" style="margin: 0 10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="50" alt="aws" style="margin: 0 10px;" />
 <img src="https://weaviate.io/img/site/weaviate-logo-light.png" height="50" alt="weaviate" style="margin: 0 10px; background-color: #ddd; border-radius: 5px; padding: 2px;" />
-
 <br/><br/>
 
 ### **Automation & Ops**
@@ -67,9 +64,8 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" height="50" alt="n8n" />
 <img src="https://img.shields.io/badge/Make-4A90E2?style=for-the-badge&logo=make&logoColor=white" height="50" alt="make" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50" alt="postman" />
-
 </div>
-
+</div>p>
 ---
 
 <div align="center">
