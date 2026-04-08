@@ -18,13 +18,18 @@
 ---
 
 ## ⚡ About Me
-Product-minded **Full-Stack Engineer** specializing in building **AI-enabled SaaS** and high-performance automations. I bridge the gap between complex engineering (Architecture, RAG, Vector Search) and business value.
+Senior Full-Stack Engineer with a product and business mindset, focused on building **scalable systems** — from robust backend APIs to AI-enabled SaaS products. I operate at the intersection of engineering depth and strategic thinking, taking ownership of architecture decisions and driving technical direction across the stack.
 
-Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating end-to-end architectures that scale on **GCP** and **Vercel**.
+Experienced in leading code reviews, defining engineering standards, and mentoring developers — with a track record of translating complex requirements into clean, maintainable systems that deliver real business value.
 
-* **Core Focus:** React/Next.js, Node.js, Python (FastAPI).
-* **AI & Data:** RAG Pipelines, Embeddings, Weaviate, PGVector, LangChain.
-* **Ops & Auto:** Docker, CI/CD, N8N, Make.com.
+Currently deepening expertise in **LLM Agents**, **RAG Pipelines**, and **Vector Databases**, while building end-to-end architectures that scale on **GCP** and **Vercel**.
+
+- **Backend:** Java · Spring Boot · Node.js · Python (FastAPI) · REST APIs · Microservices
+- **Frontend:** React · Next.js · TypeScript · API Integration
+- **AI & Data:** RAG Pipelines · Embeddings · Weaviate · PGVector · LangChain
+- **Infra & Ops:** Docker · CI/CD · GCP · AWS · Vercel
+- **Automation:** N8N · Make.com
+- **Practices:** Architecture Design · Code Review · Agile (Scrum/Kanban) · Engineering Standards
 
 ---
 
