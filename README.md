@@ -30,9 +30,10 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
 
 ## 💻 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" style="margin: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"height="45" alt="java" style="margin: 6px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"height="45" alt="spring" style="margin: 6px;" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" style="margin: 6px;" />
@@ -49,7 +50,6 @@ Currently focused on evolving **LLM Agents**, **Vector Databases**, and creating
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" height="45" alt="n8n" style="margin: 6px;" />
   <img src="https://img.shields.io/badge/Make-4A90E2?style=for-the-badge&logo=make&logoColor=white" height="45" alt="make" style="margin: 6px;" />
 </div>
-
 ---
 
 <div align="center">
