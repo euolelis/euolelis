@@ -16,7 +16,7 @@
 
 |  | Stack |
 |---|---|
-| **Backend** | **Java (Spring Boot, Hibernate)** · .NET (ASP.NET Core) · Node.js (NestJS, Express) · REST APIs · Microservices |
+| **Backend** | **Java (Spring Boot)** · .NET · Node.js · REST APIs · Microservices |
 | **AI & Data** | RAG Pipelines · LLM Orchestration · LangChain · PostgreSQL (PGVector) |
 | **Infrastructure & DevOps** | Docker · CI/CD · AWS / GCP · Microservices Architecture |
 | **Methodologies** | System Design · Clean Architecture · Technical Leadership · Agile Mindset |
@@ -31,7 +31,7 @@ A complete ecosystem (Web + Mobile) built for one of Brazil’s most traditional
 * **Tech:** Full-stack architecture, real-time analytics dashboards, and content management system.  
 * → [Repository](https://github.com/euolelis/moreiras-sport)
 
-### 🗳️ Java Election Analytics
+### 🗳️ Java Analytics
 A robust application for vote intention estimation and analysis based on official IBGE data.  
 * **Highlight:** Implementation of weighted calculations by municipality size (4 tiers) and automated synchronization of geographic datasets.  
 * **Tech:** Java, Spring, integration with government APIs.  
